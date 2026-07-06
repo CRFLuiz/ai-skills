@@ -5,7 +5,7 @@ Skill responsável por fazer o deploy de qualquer projeto para a Vercel, prioriz
 ## Resumo
 
 1. Para que serve: Realizar o deploy de projetos na Vercel de forma automatizada, buscando vincular o projeto ao Git e configurá-lo corretamente.
-2. Comando de instalação: `npx skills add vercel-labs/agent-skills@deploy-to-vercel`
+2. Comando de instalação: `npx skills add https://github.com/vercel-labs/agent-skills --skill deploy-to-vercel`
 3. Melhor forma de usar: Analisando o estado do projeto localmente (Git, CLI, arquivos da Vercel) e selecionando o método de deploy mais apropriado (Git Push ou CLI Deploy) para manter o projeto integrado ao ecossistema.
 
 ## Documentação Detalhada

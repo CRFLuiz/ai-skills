@@ -5,7 +5,7 @@ Princípios e práticas para guiar a criação de software focando no comportame
 ## Resumo
 
 1. **Para que serve:** Garantir que o código funcione conforme o esperado e sobreviva a refatorações sem quebrar testes.
-2. **Comando de instalação:** `npx skills add mattpocock/skills/tdd`
+2. **Comando de instalação:** `npx skills add https://github.com/mattpocock/skills --skill tdd`
 3. **Melhor forma de usar:** Fazer ciclos verticais (um teste de cada vez), testar comportamento em vez de implementação e refatorar apenas quando os testes estiverem passando.
 
 ## Documentação Detalhada

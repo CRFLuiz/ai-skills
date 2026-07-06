@@ -5,7 +5,7 @@ Uma skill para o uso do Vite (baseada na versão 8 beta), uma ferramenta de buil
 ## Resumo
 
 1. **Para que serve:** Fornecer um ambiente de desenvolvimento e build de alta velocidade usando Rolldown e Oxc.
-2. **Comando de instalação:** `npx skills add antfu/skills/vite`
+2. **Comando de instalação:** `npx skills add https://github.com/antfu/skills --skill vite`
 3. **Melhor forma de usar:** Utilizar `vite.config.ts` com TypeScript, preferir ESM (evitando CommonJS) e explorar os recursos do núcleo, como import.meta.glob e queries de assets.
 
 ## Documentação Detalhada
